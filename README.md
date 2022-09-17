@@ -4,7 +4,11 @@ A machine learning movie recommendation application that allows users to search 
 
 This application was made in the programming language python.
 
-![Screenshot](screenshot.png)
+![Screenshot](images/img1.PNG)
+
+![Screenshot](images/img2.PNG)
+
+![Screenshot](images/img3.PNG)
 
 # References
 Dataquest
