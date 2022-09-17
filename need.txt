@@ -1,0 +1,1 @@
+Reminder that ratings.csv was too big to upload to github. When using this project don't forget to obtain that file.
